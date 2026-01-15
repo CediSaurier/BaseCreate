@@ -48,11 +48,25 @@ This pack is made for players who enjoy:
 ## Installation (Players)
 
 ### Recommended: Prism Launcher / MultiMC
-1. Download the **BaseCreate modpack ZIP** from the Releases page  
+1. Download the **BaseCreate (Prism and everytihn else) ZIP** from the Releases page  
 2. Open Prism Launcher or MultiMC  
 3. Click **Add Instance** → **Import**  
 4. Select the downloaded ZIP  
 5. Launch and play
+
+### Modrinth
+1. Download the **BaseCreate (Modrinth) mcrpack** from the Releases page  
+2. Open Modrinth  
+3. Doubble click the file.  
+4. Modrinth should open.  
+5. Launch and play
+
+   ### CurseForge
+1. Download the **BaseCreate (CurseForge) ZIP** from the Releases page  
+2. Open CurseForge  
+3. Click **Import** → **Import Profile .zip**  
+5. Select the downloaded ZIP  
+6. Launch and play
 
 ### Manual Installation
 1. Install **Minecraft Forge 1.20.1**  
