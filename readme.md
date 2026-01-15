@@ -30,7 +30,7 @@ This pack is made for players who enjoy:
 - Long-term worlds with depth and complexity
 
 <p align="center">
-  <img src="mainscreen.png" width="900" alt="BaseCreate Preview" />
+  <img src="assets/mainscreen.png" width="900" alt="BaseCreate Preview" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ This pack is made for players who enjoy:
 
 ---
 <p align="center">
-  <img src="logov2.gif" width="520" alt="BaseCreate" />
+  <img src="assets/logov2.gif" width="520" alt="BaseCreate" />
 </p>
 
 ## License
