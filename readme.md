@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/logoimmage.png" width="520" alt="BaseCreate" />
+  <a href="https://discord.gg/FhtAhGRmMu" target="_blank">
+    <img src="logoimmage.png" width="520" alt="BaseCreate Discord" />
+  </a>
 </p>
 
-<h1 align="center">BaseCreate</h1>
+<h1 align="center">BaseCreate [Discord](https://discord.gg/FhtAhGRmMu)</h1>
 
 <p align="center">
   A large-scale Create-focused modpack built around automation, factories,
@@ -61,7 +63,7 @@ This pack is made for players who enjoy:
 4. Modrinth should open.  
 5. Launch and play
 
-   ### CurseForge
+### CurseForge
 1. Download the **BaseCreate (CurseForge) ZIP** from the Releases page  
 2. Open CurseForge  
 3. Click **Import** → **Import Profile .zip**  
