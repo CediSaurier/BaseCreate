@@ -1,11 +1,13 @@
 <p align="center">
   <a href="https://discord.gg/FhtAhGRmMu" target="_blank">
-    <img src="logoimmage.png" width="520" alt="BaseCreate Discord" />
+    <img src="assets/logoimmage.png" width="520" alt="BaseCreate Discord" />
   </a>
 </p>
 
-<h1 align="center">BaseCreate [Discord](https://discord.gg/FhtAhGRmMu)</h1>
-
+<h1 align="center">BaseCreate</h1>
+<p align="center">
+[Discord server](https://discord.gg/FhtAhGRmMu)
+</p>
 <p align="center">
   A large-scale Create-focused modpack built around automation, factories,
   and recursive engineering systems.
